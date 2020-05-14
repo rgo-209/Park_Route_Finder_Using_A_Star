@@ -1,0 +1,13 @@
+mss {font-family:helvetica}
+p {line-height:0.5cm; font-size:14}
+pm {font-size:14}
+pb {font-weight:bold; font-size:14; color:brown}
+h1 {color:brown}
+h2 {color:brown}
+h3 {color:brown}
+h4 {color:brown}
+ol {line-height:0.5cm; font-size:14}
+ul {line-height:0.5cm; font-size:14}
+brown {color:brown}
+purple {color:purple}
+todo {background-color: yellow; font-weight:bold}

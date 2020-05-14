@@ -1,0 +1,65 @@
+************** SUMMER **************
+
+		----- brown.txt-----
+Total Distance: 4216.776887336065
+Total Time Taken:12.59333324432373
+
+		----- white.txt-----
+Total Distance: 2361.7822371100483
+Total Time Taken:3.134619951248169
+
+		----- red.txt-----
+Total Distance: 5525.072584646182
+Total Time Taken:9.663204193115234
+
+
+*************** FALL ***************
+
+		----- brown.txt-----
+Total Distance: 4201.808776909981
+Total Time Taken:8.328697204589844
+
+		----- white.txt-----
+Total Distance: 2346.2795336346867
+Total Time Taken:3.883660078048706
+
+		----- red.txt-----
+Total Distance: 5449.045026350516
+Total Time Taken:8.836376905441284
+
+
+************** WINTER **************
+
+		----- brown.txt-----
+Total Distance: 4252.317963008534
+Total Time Taken:9.738923072814941
+
+		----- white.txt-----
+Total Distance: 2356.434126683964
+Total Time Taken:3.2822265625
+
+		----- red.txt-----
+Total Distance: 5560.6136603186515
+Total Time Taken:10.603654623031616
+
+
+************** SPRING **************
+
+		----- brown.txt-----
+Total Distance: 4514.3920325157615
+Total Time Taken:13.120924949645996
+
+		----- white.txt-----
+Total Distance: 2392.2460162578805
+Total Time Taken:3.37404203414917
+
+		----- red.txt-----
+Total Distance: 5862.375840251962
+Total Time Taken:14.13620924949646
+
+
+********************************************
+Total time taken to traverse all:  136.18927693367004
+
+
+********************************************
